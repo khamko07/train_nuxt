@@ -74,6 +74,6 @@ const email = ref('')
 const password = ref('')
 
 function login() {
-  navigateTo('/dashboard')
+  navigateTo('/dashboard/employees')
 }
 </script>
